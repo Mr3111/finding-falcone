@@ -5,5 +5,14 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "headwind.runOnSave": false
+  "headwind.runOnSave": false,
+  "cSpell.words": [
+    "clsx",
+    "clsxm",
+    "commitlint",
+    "nextjs",
+    "postbuild",
+    "tailwindcss",
+    "typecheck"
+  ]
 }
